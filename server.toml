@@ -1,0 +1,3 @@
+[[server]]
+    name="server1"
+    port=80
